@@ -14,6 +14,7 @@ This application should contain 2 Microservices projects which have to be indepe
 Project is created with:
 * SpringBootApplication(STS)
 * Java 8
+* HTML
 * Maven
 * MySQLWorkBench
 	
